@@ -1,0 +1,12 @@
+.navbar {
+    margin-bottom: 20px;
+}
+
+.card {
+    margin: 10px;
+    
+}
+
+.row>* {
+    padding: 0;
+}
