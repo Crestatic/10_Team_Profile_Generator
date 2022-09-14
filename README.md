@@ -11,8 +11,5 @@ https://drive.google.com/file/d/14RdbveGWJPvekiLjRY-9afCKvwLxaBUO/view
 * Node.js
 * Inquirer/Jest
 
-## Link to website
-https://crestatic.github.io/10_Team_Profile_Generator/
-
 ## Screenshot
 ![alttext](./images/screenshot.PNG)
