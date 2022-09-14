@@ -12,7 +12,7 @@ https://drive.google.com/file/d/14RdbveGWJPvekiLjRY-9afCKvwLxaBUO/view
 * Inquirer/Jest
 
 ## Link to website
-ttps://crestatic.github.io/10_Team_Profile_Generator/
+https://crestatic.github.io/10_Team_Profile_Generator/
 
 ## Screenshot
 ![alttext](./images/screenshot.PNG)
